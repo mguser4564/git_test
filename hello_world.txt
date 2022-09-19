@@ -1,0 +1,1 @@
+Hello, this is my first time working with Git and Github. I hope to become a web developer and be able to travel the world and work from anywhere with no one holding me down! Soon I will say "Hello World!" from anywhere I want! 
